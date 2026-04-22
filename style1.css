@@ -1,0 +1,91 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.Navbar{
+    background-color: #1A3A4A;
+    color: beige;
+    display: flex;
+    align-items: center;
+}
+.Navlist{
+    color: white;
+    margin-left: 1050px;
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+}
+
+.Box1{
+    height: 300px;
+    width: 1527px;
+    background-image: url(./photo-1464822759023-fed622ff2c3b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:10%;
+    color: white;
+}
+.Box2{
+    background-color:#F0EBE3;
+    height: 350px;
+    width: 1527px;
+    display: flex;
+}
+#Small-box1{
+    height: 350px;
+    width: 90rem;
+    align-items: center;
+    text-align: center;
+}
+#Small-box2{ 
+    background-color:white;
+    padding: 10px;
+    margin: 20px;
+    border: 50px;
+    height: 250px;
+    width: 30rem;
+    align-items: center;
+    text-align: center;
+
+}
+#sub-box{
+    background-image: url(./photo-1506905925346-21bda4d32df4.jpg);
+    background-position: 5%;
+    background-size: cover;
+    height: 120px;
+    width: 950px;
+    margin: 80px;
+    margin-top: 40px;
+}
+#sub-box1{
+    background-color: red;
+    background-image: url(./photo-1544005313-94ddf0286df2.jpg);
+    background-size: cover;
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 130px;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    
+}
+.New-box{
+    background-color:   rgba(255,255,255,0.0);
+    height: 200px;
+    width: 350px;
+    text-align: center;
+    padding: 60px;
+
+}
+#smallbutton{
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+    background-color: #E8A838;
+}
+
